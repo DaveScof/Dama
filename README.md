@@ -1,7 +1,5 @@
 # Dama
 
-In this Project, we'll build a web application for a Dama game.
-
 Epics:
 
 1. Users can create an account and register
